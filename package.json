@@ -1,0 +1,24 @@
+{
+  "name": "js_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dredikyl/JS_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dredikyl/JS_1/issues"
+  },
+  "homepage": "https://github.com/dredikyl/JS_1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-notify": "^3.2.0",
+    "browser-sync": "^2.26.12"
+  }
+}
